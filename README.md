@@ -29,3 +29,5 @@ DAX for custom metrics
 
 Interactive slicers to filter by state
 
+##Dashboard
+<img width="761" height="430" alt="SALES DASHBOARD" src="https://github.com/user-attachments/assets/073e366a-107c-4f72-bdec-04b10b50167c" />
